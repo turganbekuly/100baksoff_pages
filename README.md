@@ -18,11 +18,11 @@ At some point, we may wish to update the app. The app is currently available on 
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2022-12-25.
+These terms and conditions are effective as of 2024-12-25.
 
 ## Contact Us
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at **miras@miras.club**.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at **akarysid@gmail.com**.
 
 ---
 
